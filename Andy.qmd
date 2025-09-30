@@ -1,5 +1,4 @@
----
-title: "Andy"
-format: html
----
+Reposistorio de programacion y analsis de datos 
+
+> FICA 2025-2
 

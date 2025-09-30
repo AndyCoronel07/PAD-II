@@ -1,5 +1,3 @@
----
-title: "Hacker"
-format: html
----
+Los primeros pasos de programacion 
 
+> ING AGRONOMIA-2025
